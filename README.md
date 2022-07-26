@@ -1,5 +1,7 @@
 | GMS VER | LINK |
 | ------------- | ------------- |
+| 2022.3 - 17b  | [Almora Darkosen RPG](https://apkpure.com/almora-darkosen-rpg/com.GearStudio.AlmoraDarkosen/download/1001019-APK)  |
+| 2022.3 - 17b  | [Card Hog](https://apkpure.com/card-hog-dungeon-crawler/com.snoutup.cardhog/download/1000171-XAPK)  |
 | 2022.1 - 17b  | [Deltarune APK](https://milesthecreator.wixsite.com/offical-website/deltarune-android-port)  |
 | 2.3.2 - 17b  | [Nuclear Throne Mobile](https://toncho.itch.io/nuclear-throne-mobile)  |
 | 2.3.2 - 17b  | [Bloons TDX](https://gamejolt.com/games/BTDXAND/543324)  |
